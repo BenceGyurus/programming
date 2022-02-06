@@ -1,0 +1,16 @@
+body{
+    
+}
+.code{
+    font-family: "Lucida Console";
+    background-color: #303030;
+    color: #bababa;
+    padding: 3px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#conteiner{
+    width: 80%;
+    margin: 10px auto;
+}

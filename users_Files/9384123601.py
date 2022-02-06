@@ -1,0 +1,3 @@
+#Próbáld ki....
+list = [[], "Szia"]
+a = 32

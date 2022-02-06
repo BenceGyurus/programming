@@ -1,0 +1,1 @@
+{"all": [["name", "Bence"], ["age", 15]], "end": [["name", "Bence"], ["age", 15], ["b", [[["name", "Bence"], ["age", 15]]]], ["name_Index", [[0, 1]]], ["age_Index", [[1, 1]]], ["b[name_Index[0]][name_Index[1]]", "Gy\u00fcr\u00fcs Bence"]], "file_Name": "1971933809.py"}

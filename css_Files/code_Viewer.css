@@ -1,0 +1,93 @@
+body{
+    background-color: #545454;
+    overflow-x: hidden;
+}
+
+.numberLine{
+    /*width: 20px;*/
+    padding: 0px;
+    margin: 0px;
+    font-size: 18px;
+    color: #adadad;
+    font-family: "Courier New";
+    float:initial;
+}
+
+#number_Of_Lines{
+    width: max-content;
+    margin: 0px;
+    width: max-content;
+    display: inline-table;
+}
+
+.string{
+    color: orange;
+}
+#code{
+    font-size: 18px;
+    color: #adadad;
+    font-family: "Courier New";
+    margin: 0px;
+    width: 78%;
+    display:inline-block;
+    overflow-x: auto;
+    height: max-content;
+    /*float: right;*/
+    position: absolute;
+    left: 70px;
+}
+.branching{
+    color: blue;
+}
+.function{
+    color:purple;
+}
+
+.operators{
+    color: #8f0000;
+}
+
+.boolean{
+    color: #00c43e;
+}
+
+.function_Name{
+    color: #dff211;
+}
+
+.comment{
+    color: #028000;
+}
+
+#header{
+    width: max-content;
+    background-color: #737170;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 10px;
+}
+
+#menu{
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu_Button{
+    list-style: none;
+    display: inline-block;
+    padding: 3px;
+    border: 3px solid #3d3939;
+    margin: 6px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #9e9b9b;
+    background-color: #3b3b3b;
+    font-weight: bold;
+}
+
+.menu_Button:hover{
+    transition: 0.3s;
+    color: #3b3b3b;
+    background-color: #9e9b9b;
+}

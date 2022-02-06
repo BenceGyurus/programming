@@ -1,0 +1,1 @@
+{"code":"name = \"Bence\"\nage = 15\n\nb = [[\"name\", name], [\"age\", age]]\n\nname_Index = [0,1]\nage_Index = [1,1]\n\nb[name_Index[0]][name_Index[1]] = \"Gyürüs Bence\"","title":"main"}

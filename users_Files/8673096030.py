@@ -1,0 +1,1 @@
+list = ["Szia", "uram"]

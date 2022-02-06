@@ -1,0 +1,3 @@
+#Próbáld ki....
+a = 110
+string = "string"

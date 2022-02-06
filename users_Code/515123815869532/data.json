@@ -1,0 +1,1 @@
+{"code":"def osztok_Szama(number):\n\tcopy_Number = number\n\tnum = 0\n\twhile copy_Number > 0:\n\t\tif number % copy_Number == 0:\n\t\t\tnum += 1\n\t\t\tprint(copy_Number)\n\t\tcopy_Number -= 1\n\n\treturn num\n\nprint(osztok_Szama(int(input())))","title":"main"}

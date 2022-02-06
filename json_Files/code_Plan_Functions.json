@@ -1,0 +1,1 @@
+{"functions" : [["szum", ["értékeket tartalmazó tömb"], "Egy tömb értékeit adja össze." ,"sum"], ["keresés tömbben", ["értékeket tartalmazó tömb", "keresett érték"], "egy adott tömbben keresi meg az értéket", "search_In_Array"] ]}

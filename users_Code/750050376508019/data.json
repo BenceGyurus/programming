@@ -1,0 +1,1 @@
+{"title":"main","code":"a = 10\nif a == 10:\n    print(True)\nelse:\n    print(a)"}

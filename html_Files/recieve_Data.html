@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="recieve_Data.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id = "header">
+        <h1 id = "main_Title">Elemzés</h1>
+    </div>
+    <div id = "conteiner">
+        <textarea id = "code_Input" name = "data">#Próbáld ki....</textarea>
+        <input type = "button" value = "Elemzés" id = "submit_Button" onclick = "send_Code()">
+        <input type = "button" value = "Kód megnyitása a kódfigyelőben" onclick = "upload()" id = "open_In_Code_Viewer">
+    </div>
+    <div id = "console">
+        <div id = "last_Queries"></div>
+        <label class = "arrows">&#x276D;</label><input type = "text" placeholder="type here..." id = "command_Line"><input type = 'button' onclick = 'query_Data()' value = 'run' class = 'enter_Button'>
+    </div>
+    <div id = "datas">
+        <div id = "recieve_Data"></div>
+        <div id = "generated_Data"></div>
+    </div>
+</body>
+<script src="recieve_Data.js"></script>
+<script src="upload_Code.js"></script>
+<script src = "array_Mapping.js"></script>
+<script src = "number.js"></script>
+</html>

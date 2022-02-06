@@ -1,0 +1,1 @@
+{"code":"a = \"String\"\nb = 10\nfirst_Name = \"Bence\"\nsir_Name = \"Gyürüs\"\nfull_Name = first_Name + \" \" + sir_Name","title":"main"}

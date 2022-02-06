@@ -1,0 +1,3 @@
+#Próbáld ki....
+list = ["Bence", 1]
+a = list[1]

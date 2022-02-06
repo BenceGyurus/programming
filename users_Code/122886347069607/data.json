@@ -1,0 +1,1 @@
+{"title":"main","code":"first_Name = \"Bence\"\nlast_Name = \"Gyürüs\"\nspace = \" \"\nhello = \"Hello\"\nfullName = first_Name + space + last_Name\ni = hello + space+ fullName + space+\"vagyok!\"\nlist = [\"Bence\", True, i]\nif i == 0:\n    print(\"szia uram\")\nelif i ==1:\n    print(\"Nem\")\nelif not i:\n    print(\"nincs\")\nelse:\n    print(\"kutya\")"}
